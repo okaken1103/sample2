@@ -1,3 +1,4 @@
 課題用　
 追加　
 echo [December];
+echo $calendar["December"];
